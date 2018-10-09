@@ -1,5 +1,6 @@
 package com.example.microservices.Posts.domain;
 
+import com.example.microservices.Posts.enums.Status;
 import lombok.Data;
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.UpdateTimestamp;
